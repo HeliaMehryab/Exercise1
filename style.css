@@ -1,0 +1,23 @@
+* {background-color: F1EFDC}
+
+table,td{
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+tr{font-size: large;}
+input{
+    background-color: E6D2AA;
+}
+h3 {
+    color: 42032C;
+} 
+h1 {
+    color: D36B00;
+}
+h2 {
+    color: 42032C;
+}
+li {
+    color: D36B00;
+}
+
